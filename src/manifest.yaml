@@ -1,0 +1,55 @@
+# 插件展示的名称
+name: Assistant Project Example
+name_zh_cn: 清空后台程序
+
+# 插件描述
+description: This is a Assistant javascript project example.
+description_zh_cn: 这是一个点击助手的js代码事例工程。
+
+# 插件图标
+icon: assets/icon.jpeg
+
+# 入口JS地址
+# 请使用相对地址
+bundle: js/bundle.js
+
+# 设置界面入口
+# 请使用相对地址，资源尽量本地化
+# 非必须配置项目
+settings: html/settings.html
+
+# 当前插件的版本号
+version: 0.0.1
+
+# 点击助手最低依赖版本号
+# 非必须配置项目
+assistant: 1
+
+# 升级地址
+# 非必须配置项目
+upgrade: https://github.com/uhsk/click-assistant-plugin-example
+
+# 文档地址
+# 非必须配置项目
+wiki: https://github.com/uhsk/click-assistant-plugin-example/issues
+
+# 缺陷追踪地址
+# 非必须配置项目
+issues: https://github.com/uhsk/click-assistant-plugin-example/wiki
+
+# 作者
+# 非必须配置项目
+authors:
+  - sollyu
+  - ethan
+
+# 需要权限
+# 非必须配置项目
+permissions:
+  - accessibility
+
+# 网络接口
+# 只需要添加域名即可
+# 非必须配置项目
+domains:
+  - github.com
