@@ -13,11 +13,6 @@ icon: assets/icon.jpeg
 # 请使用相对地址
 bundle: js/bundle.js
 
-# 设置界面入口
-# 请使用相对地址，资源尽量本地化
-# 非必须配置项目
-settings: html/settings.html
-
 # 当前插件的版本号
 version: 0.0.1
 
@@ -27,15 +22,15 @@ assistant: 1
 
 # 升级地址
 # 非必须配置项目
-upgrade: https://github.com/uhsk/click-assistant-plugin-example
+upgrade: https://github.com/uhsk/plugin-recents-clear
 
 # 文档地址
 # 非必须配置项目
-wiki: https://github.com/uhsk/click-assistant-plugin-example/issues
+wiki: https://github.com/uhsk/plugin-recents-clear/wiki
 
 # 缺陷追踪地址
 # 非必须配置项目
-issues: https://github.com/uhsk/click-assistant-plugin-example/wiki
+issues: https://github.com/uhsk/plugin-recents-clear/issues
 
 # 作者
 # 非必须配置项目
